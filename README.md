@@ -55,7 +55,7 @@ This project is an AI-powered coding assistant that helps developers generate co
 ## 🎥 Demo Video
 [![Watch the demo]
  ```
-  [Watch the Demo](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link)
+  https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link
   ```
 
 ## 📌 Usage Guide
