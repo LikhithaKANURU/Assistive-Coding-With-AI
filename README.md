@@ -53,7 +53,17 @@ This project is an AI-powered coding assistant that helps developers generate co
    ```
 
 ## 🎥 Demo Video
-[![Watch the demo]((https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link))]((https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link))
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+If your video is hosted on Google Drive, ensure the correct format:
+- Use a direct Google Drive embed link:
+  ```
+  https://drive.google.com/file/d/YOUR_VIDEO_ID/preview
+  ```
+  Example:
+  ```
+  [Watch the Demo](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/preview)
+  ```
 
 ## 📌 Usage Guide
 1. Select the programming language.
@@ -65,7 +75,7 @@ This project is an AI-powered coding assistant that helps developers generate co
 ## 🏆 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📜 License
+## 🐟 License
 This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgments
