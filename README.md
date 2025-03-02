@@ -53,8 +53,7 @@ This project is an AI-powered coding assistant that helps developers generate co
    ```
 
 ## 🎥 Demo Video
-[![Watch the demo](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=sharing)](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=sharing)
-
+[![Watch the demo](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=sharing)]
 ## 📌 Usage Guide
 1. Select the programming language.
 2. Choose between generating code or adding comments & explanations.
