@@ -57,6 +57,8 @@ This project is an AI-powered coding assistant that helps developers generate co
  ```
   https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link
   ```
+## 🖼️ Project Screenshot
+![Project Screenshot]((https://drive.google.com/file/d/1bR3Rsk07Jlg5oRjGkQLkZCjGCrH9__5N/view?usp=sharing))
 
 ## 📌 Usage Guide
 1. Select the programming language.
