@@ -53,14 +53,8 @@ This project is an AI-powered coding assistant that helps developers generate co
    ```
 
 ## 🎥 Demo Video
-[![Watch the demo](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link))
-
-If your video is hosted on Google Drive, ensure the correct format:
-- Use a direct Google Drive embed link:
-  ```
-(https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link)  ```
-  Example:
-  ```
+[![Watch the demo]
+ ```
   [Watch the Demo](https://drive.google.com/file/d/1QHltFWSL1sNRQeHwm4Uk2fUNss_E1pzd/view?usp=drive_link)
   ```
 
